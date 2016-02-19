@@ -1,12 +1,1 @@
-Hello My Name is Amar Shah
-I am working on Jenkins Build Test
-Amar Shah, Mohit & Puran are great
-Chetan is bad man
-Puran is not giving permission
-We are great
-Hey...!!!
-Puran is great
-Amar, Mohit & Puran are great
-Amar is working on jenkins
-Final Demo
-Great!!!
+This is Jenkins + Sonar Demo
